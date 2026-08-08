@@ -10,11 +10,12 @@ Site estático (HTML/CSS/JS puro) pronto para hospedar no **GitHub Pages**.
 ├── hardware.html           → Serviços de hardware (acento azul)
 ├── software.html           → Serviços de software (acento cyan)
 ├── business-systems.html   → Sistemas empresariais (acento verde)
-├── managed-it.html         → Planos de TI gerenciada (com preços)
+├── managed-it.html         → Planos de TI gerenciada (sem preços públicos — até Ale definir os valores)
 ├── styles.css              → Estilos compartilhados (paleta da logo)
 ├── script.js                → Menu mobile, pixels animados, reveal, formulário
 ├── assets/
-│   ├── logo.png             → Logo oficial (GallTech)
+│   ├── logo.png             → Ícone (nav, footer, favicon)
+│   ├── logo-oficial.png     → Logo completa oficial (ícone + wordmark + tagline)
 │   └── logo-old-backup.png  → Logo anterior (GalTech, uma L) — backup
 └── README.md
 ```
